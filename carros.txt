@@ -1,0 +1,60 @@
+Ford,Club Wagon,1994,$3.02B,Trail,Luxembourg
+Mitsubishi,Pajero,2004,$665.88M,Point,Poland
+Volkswagen,Quantum,1984,n/a,Court,Indonesia
+Saab,9000,1995,$47.58M,Way,Thailand
+Toyota,4Runner,1996,$2.83B,Avenue,China
+Mercedes-Benz,SLK-Class,2010,$41.88M,Parkway,China
+Chevrolet,Express 1500,2009,$60.66M,Road,Peru
+Pontiac,GTO,2004,$174.89M,Court,Poland
+Ford,F-Series,1997,$149.83M,Way,Indonesia
+Dodge,Ram Van 3500,1998,$120.57B,Place,China
+Jeep,Grand Cherokee,2011,$55.6M,Center,China
+Hyundai,Tiburon,1999,$2.38B,Street,Brazil
+Maserati,GranTurismo,2009,$6.96B,Park,Israel
+Toyota,Celica,1997,$437.27M,Hill,Syria
+Porsche,Boxster,2002,n/a,Road,China
+Chevrolet,Silverado 1500,2005,$37.85B,Circle,Poland
+Dodge,Nitro,2009,$1.71B,Avenue,Brazil
+Lexus,LS,2005,$220.5M,Court,Greece
+Audi,TT,2003,$6.43B,Way,China
+Buick,Skylark,1991,n/a,Junction,Philippines
+Mercedes-Benz,300SD,1993,$3.31B,Lane,Iran
+Geo,Tracker,1996,$165.11B,Lane,Argentina
+Panoz,Esperante,2008,$127.38M,Street,Brazil
+Ford,Ranger,1984,$955.69M,Trail,Philippines
+Hummer,H3,2006,$518.61M,Park,China
+Toyota,Highlander,2006,$1.51B,Center,Japan
+Hyundai,Elantra,2011,n/a,Trail,Indonesia
+Dodge,Nitro,2007,n/a,Terrace,Poland
+Chevrolet,Tahoe,2013,$9.55B,Road,Malaysia
+Porsche,Cayenne,2011,$258.91M,Crossing,China
+Ford,Laser,1986,$56.28B,Parkway,France
+Cadillac,Seville,1999,n/a,Drive,Slovenia
+Volkswagen,Cabriolet,1988,$1.1B,Pass,Indonesia
+Mercedes-Benz,SL-Class,1992,$1.2B,Plaza,Brazil
+Pontiac,Sunfire,2004,n/a,Junction,Czech Republic
+Ford,Thunderbird,1965,$2.65B,Street,China
+Volvo,940,1995,$71.12B,Trail,Thailand
+Audi,A4,2012,n/a,Pass,Russia
+Dodge,Intrepid,2004,$13.75B,Point,Iran
+Mazda,CX-9,2009,$442.63M,Court,Indonesia
+Ford,EXP,1984,$110.06M,Way,China
+Cadillac,Escalade EXT,2003,n/a,Crossing,China
+Nissan,Sentra,2003,$2.35B,Circle,Japan
+Buick,Regal,1990,$315.27M,Pass,Czech Republic
+Volvo,S60,2010,n/a,Park,Peru
+Mercury,Sable,2002,$1.9B,Plaza,China
+Mitsubishi,Eclipse,1990,$2.21M,Way,Russia
+Kia,Amanti,2008,$1.72B,Trail,China
+Buick,Lucerne,2007,n/a,Parkway,United States
+Subaru,Loyale,1992,$74.82M,Circle,Indonesia
+Dodge,Ram 1500 Club,1996,$4.84B,Place,Indonesia
+Saturn,Sky,2009,n/a,Plaza,Luxembourg
+Jeep,Grand Cherokee,2011,$193.2M,Point,Colombia
+Pontiac,Firebird,1986,$12.86B,Street,Colombia
+Audi,A6,2009,$29.21M,Crossing,Peru
+Toyota,Tacoma Xtra,2003,$674.56M,Parkway,Colombia
+Honda,Element,2011,$69M,Place,Mexico
+Honda,Accord,1994,$225.47M,Crossing,Philippines
+Alfa Romeo,Spider,1993,$1.29B,Place,Brazil
+Cadillac,DeVille,1998,$94.88B,Park,Poland
