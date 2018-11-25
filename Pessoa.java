@@ -1,0 +1,49 @@
+package LeitorCSVFinal;
+
+public class Pessoa { 
+
+	protected String nome ; 
+	protected String sobrenome ; 
+	protected String sexo ;
+
+
+	public Pessoa(String nome, String sobrenome, String sexo) {
+		super();
+		this.nome = nome;
+		this.sobrenome = sobrenome;
+		this.sexo = sexo;
+	}
+
+
+	public String getNome() {
+		return nome;
+	}
+
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+
+	public String getSobrenome() {
+		return sobrenome;
+	}
+
+
+	public void setSobrenome(String sobrenome) {
+		this.sobrenome = sobrenome;
+	}
+
+
+	public String getSexo() {
+		return sexo;
+	}
+
+
+	public void setSexo(String sexo) {
+		this.sexo = sexo;
+	}
+
+
+
+}
