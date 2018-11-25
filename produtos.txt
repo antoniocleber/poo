@@ -1,0 +1,50 @@
+Chevrolet,Equinox,2006,59016.47,Circle,Philippines
+Dodge,Avenger,1995,21239.29,Point,China
+Hyundai,Elantra,2013,13408.83,Park,Tunisia
+Chevrolet,Impala,2002,53693.67,Park,Belize
+Chevrolet,Suburba1500,2009,51019.37,Circle,China
+Saab,9000,1989,45528.12,Crossing,China
+Acura,SLX,1996,24684.44,Avenue,Russia
+Lotus,Elise,2004,17176.45,Street,France
+Kia,Forte,2012,10373.03,Plaza,Nigeria
+Cadillac,SRX,2008,20403.39,Point,United States
+Mitsubishi,L300,1987,19881.27,Alley,Indonesia
+Mitsubishi,Truck,1996,41360.26,Pass,Germany
+Dodge,Intrepid,1997,27674.17,Road,Indonesia
+Chevrolet,Venture,1997,38825.70,Pass,Portugal
+Mitsubishi,Mirage,1994,26515.93,Junction,Ukraine
+Honda,Odyssey,2009,42868.98,Trail,Malaysia
+Chevrolet,Uplander,2007,48272.04,Circle,Japan
+GMC,Vandura 2500,1994,37208.25,Street,Poland
+Toyota,Corolla,2009,36739.44,Place,Philippines
+Jeep,Wrangler,2002,14675.61,Lane,China
+Honda,Prelude,1992,25790.79,Junction,Philippines
+Toyota,Camry,1999,24779.67,Alley,Sweden
+Honda,del Sol,1993,49579.16,Junction,Brazil
+Audi,S4,1994,22796.20,Street,Philippines
+Mercury,Mariner,2006,35268.99,Pass,Philippines
+Honda,CR-V,2012,18702.92,Way,Sweden
+Volvo,XC60,2012,16763.92,Road,Brazil
+Pontiac,GrandAm,1994,24350.47,Drive,Indonesia
+Oldsmobile,88,1993,38539.04,Plaza,Philippines
+Dodge,RamVan2500,1995,57007.82,Lane,China
+Chevrolet,Beretta,1992,29191.17,Park,Brazil
+Toyota,Tundra,2004,36339.50,Center,Poland
+GMC,Canyon,2008,10254.02,Circle,France
+Mazda,929,1987,39973.82,Terrace,Colombia
+BMW,3Series,2008,57065.87,Plaza,Poland
+Mazda,B-Series,1996,42842.75,Park,Poland
+Nissan,Pathfinder,1992,56118.94,Center,China
+Saab,9-5,2007,48644.06,Avenue,Thailand
+GMC,Savana2500,2005,36497.66,Way,Armenia
+Ford,Fiesta,2001,41221.81,Plaza,China
+Honda,Ridgeline,2011,31269.15,Avenue,Malaysia
+Chrysler,Crossfire,2006,36858.55,Point,China
+Ford,Laser,1988,32823.73,Road,China
+GMC,Savana1500,2005,40280.65,Lane,Brazil
+Toyota,FJCruiser,2012,41500.52,Alley,China
+Chevrolet,Silverado 3500,2009,23563.16,Road,Canada
+Dodge,Dakota Club,1994,55064.93,Park,Russia
+Lamborghini,Gallardo,2006,57750.70,Trail,Indonesia
+Chevrolet,G-Series G20,1995,51943.72,Road,Panama
+Pontiac,G5,2009,54509.50,Drive,Sri Lanka
